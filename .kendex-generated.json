@@ -1,0 +1,3 @@
+[
+  {"path":".github/workflows/kendex-refresh.yml","template":".agents/skills/review-gate/templates/kendex-refresh.yml","templateHash":"sha256:f563f141a1878935569d231d247fde8de7e2e9d61ad23894caa2c937496e44e2"}
+]
